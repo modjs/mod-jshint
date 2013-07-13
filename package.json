@@ -1,0 +1,36 @@
+{
+    "name": "mod-jshint",
+    "description": "Validate javascript files with jshint",
+    "version": "0.1.0",
+    "homepage": "https://github.com/modjs/jshint",
+    "author": {
+        "name": "yuanyan",
+        "url": "https://github.com/yuanyan"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/modjs/jshint.git"
+    },
+    "bugs": {
+        "url": "https://github.com/modjs/jshint/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/modjs/jshint/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bin": "",
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "jshint": "*"
+    },
+    "keywords": []
+}
